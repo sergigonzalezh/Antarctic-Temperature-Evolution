@@ -1,4 +1,6 @@
-# Antarctic-Temperature-Evolution
+# Polar-Temperature-Evolution
+This is a series of scripts to create plots with maps and stripes of the near-surface air temperature in the poles to show the warming and variability .
+
 Script to create antarctic maps with ERA5 annual surface temperature with station observations
 
 It was used to create the Social Media video at:
