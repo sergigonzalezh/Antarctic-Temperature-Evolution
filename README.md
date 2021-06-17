@@ -23,4 +23,4 @@ In this repository you can find the following scripts:
 It was used to create the Social Media video in [Twitter](https://twitter.com/polarprediction/status/1399293122270609409), [Instagram](https://www.instagram.com/p/CPlAynlKvWx/) and [Tik Tok](https://www.tiktok.com/@polarprediction/video/6967314928424242437?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6955074349489686022).
 
 
-Look also [Thomas Rackow's](https://github.com/trackow) [Melting Stripes](https://github.com/trackow/warmingstripes#readme) to visualize the Arctic Sea Ice decrease and the Antarctic Sea Ice variability.
+Look also at [Thomas Rackow's](https://github.com/trackow) [Melting Stripes](https://github.com/trackow/warmingstripes#readme) to visualize the Arctic Sea Ice decrease and the Antarctic Sea Ice variability.
